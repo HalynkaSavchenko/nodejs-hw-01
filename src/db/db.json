@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "Rosemary King",
+    "phone": "1-441-857-2664",
+    "email": "Josiah72@yahoo.com",
+    "job": "Direct Assurance Executive"
+  },
+  {
+    "name": "Jerald Wilkinson",
+    "phone": "364-622-7577 x7388",
+    "email": "Nicolas.McCullough@hotmail.com",
+    "job": "Dynamic Data Analyst"
+  },
+  {
+    "name": "Erin Hagenes",
+    "phone": "464.934.6632 x645",
+    "email": "Ethelyn_Heller@yahoo.com",
+    "job": "Investor Marketing Strategist"
+  },
+  {
+    "name": "Jan Volkman",
+    "phone": "(551) 993-6508",
+    "email": "Betsy_Bernier-Goodwin21@hotmail.com",
+    "job": "Senior Security Assistant"
+  }
+]
